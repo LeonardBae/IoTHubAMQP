@@ -1,0 +1,10 @@
+C:\Users\Junghwan\source\repos\net35iothub\net35iothub\bin\Debug\net35iothub.exe
+C:\Users\Junghwan\source\repos\net35iothub\net35iothub\bin\Debug\net35iothub.pdb
+C:\Users\Junghwan\source\repos\net35iothub\net35iothub\obj\Debug\net35iothub.csprojAssemblyReference.cache
+C:\Users\Junghwan\source\repos\net35iothub\net35iothub\obj\Debug\net35iothub.csproj.CoreCompileInputs.cache
+C:\Users\Junghwan\source\repos\net35iothub\net35iothub\obj\Debug\net35iothub.exe
+C:\Users\Junghwan\source\repos\net35iothub\net35iothub\obj\Debug\net35iothub.pdb
+C:\Users\Junghwan\source\repos\net35iothub\net35iothub\bin\Debug\Amqp.Net.dll
+C:\Users\Junghwan\source\repos\net35iothub\net35iothub\bin\Debug\Amqp.Net.pdb
+C:\Users\Junghwan\source\repos\net35iothub\net35iothub\bin\Debug\Amqp.Net.xml
+C:\Users\Junghwan\source\repos\net35iothub\net35iothub\obj\Debug\net35iothub.csproj.CopyComplete
